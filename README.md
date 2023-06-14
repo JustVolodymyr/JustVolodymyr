@@ -2,5 +2,5 @@
 
 ## I am junior .Net developer
 
-## Skills: C# | ASP.NET Core | WebAPI | MVC | Entity Framework | MS SQL Server | Git
+## Skills: C# | ASP.NET Core | MVC | Entity Framework | MS SQL Server | HTML | CSS | Git 
  
